@@ -518,8 +518,8 @@ ul.sponsors {
 	padding-bottom: 25px;
 	border-top-width: 8px;
 	border-top-style: solid;
-	border-top-color: #2F2F2F;
-	background-color: #000000;
+	border-top-color: #FD8E00;
+	background-color: #FD8E00;
 	border: 0;
 	font-size: 100%;
 	font: inherit;
@@ -534,7 +534,7 @@ ul.sponsors {
 	color: #8DBECE;
 	border-bottom-width: 1px;
 	border-bottom-style: solid;
-	border-bottom-color: #30393C;
+	border-bottom-color: #FD8E00;
 	line-height: 35px;
 	margin-bottom: 20px;
 	margin-top: 25px;
@@ -547,6 +547,6 @@ ul.sponsors {
 
 #footer p,
 #footer address {
-	color: #8F8F8F;
+	color: #FD8E00;
 	font-size: 11px;
 }
